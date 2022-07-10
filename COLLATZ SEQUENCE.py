@@ -1,4 +1,4 @@
-# Escribe tu código aquí :-)
+# This short program was extracted from the book Automate the boring stuff with Python.
 def collatz(number):
     if number % 2 == 0:
         print(number // 2)
